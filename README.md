@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=orzzzjq)
+
 <h2 align="left">⚙️ &nbsp;GitHub Analytics</h2>
 <p align="left">
 <a href="https://github.com/orzzzjq">
