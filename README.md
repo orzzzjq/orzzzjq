@@ -1,12 +1,10 @@
 <h3 align="left">🛠️ &nbsp;Languages & Tools</h3>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/cuda-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="SAWARATSUKI.ServiceLogos/C_family.png" height="80px"></img>
+<img src="SAWARATSUKI.ServiceLogos/Python.png" height="80px"></img>
+<img src="SAWARATSUKI.ServiceLogos/Java.png" height="80px"></img>
 <br>
+![CUDA](https://img.shields.io/badge/cuda-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
